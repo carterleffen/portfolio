@@ -128,6 +128,12 @@ ul.skills {
     padding: 0;
     text-align: center;
 }
+
+#tips li {
+    padding-bottom: 1em;    
+}
+
+
 .skills li {
     border-radius: 6px;
     display: inline-block;
@@ -181,6 +187,8 @@ a.social:hover {
 .clearfix {
     clear: both;
 }
+
+
 
 /* Styles for larger screens */
 
