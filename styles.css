@@ -66,12 +66,12 @@ a:hover {
 }
 
 .nav #selected a {
-    color: white;  
+    color: white;
 }
 
 header {
     text-align: center;
-    background: url('images/portland.jpg') no-repeat top center;
+    background: url('images/background.jpg') no-repeat top center;
     background-size: cover;
     overflow: hidden;
     padding-top: 60px;
@@ -130,7 +130,7 @@ ul.skills {
 }
 
 #tips li {
-    padding-bottom: 1em;    
+    padding-bottom: 1em;
 }
 
 
